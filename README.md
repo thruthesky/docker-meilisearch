@@ -1,0 +1,2 @@
+# docker-meilisearch
+Meilisearch
